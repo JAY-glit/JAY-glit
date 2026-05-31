@@ -120,12 +120,16 @@ Infosys · via ICT Academy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAY-glit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-glit&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JAY-glit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-glit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAY-glit&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=JAY-glit&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAY-glit&theme=tokyonight"/>
 </p>
 
 ---
@@ -133,4 +137,3 @@ Infosys · via ICT Academy
 <p align="center">
   <i>"The best AI systems don't just compute — they understand." 🧠✨</i>
 </p>
-
