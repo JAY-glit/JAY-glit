@@ -12,7 +12,7 @@
   <a href="mailto:jaydurga1290@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-jaydurga1290-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jaydurga1290-dot&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=JAY-glit&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@ Infosys · via ICT Academy
 
 ## 🚀 Featured Projects
 
-### 🛡 [Shadow Agent Pro](https://github.com/jaydurga1290-dot/shadow-agent-pro)
+### 🛡 [Shadow Agent Pro](https://github.com/JAY-glit/shadow-agent-pro)
 > Real-time browser malware detection · Chrome MV3 + Flask + ML + React dashboard
 
 - 🤖 Random Forest classifier with ~**90% accuracy** on phishing datasets
@@ -87,7 +87,7 @@ Infosys · via ICT Academy
 
 ---
 
-### 🧠 [RAG System — Ollama Mistral + AuraDB](https://github.com/jaydurga1290-dot/rag-ollama-mistral)
+### 🧠 [RAG System — Ollama Mistral + AuraDB](https://github.com/JAY-glit/rag-ollama-mistral)
 > Context-aware AI responses using Knowledge Graphs + Vector Search
 
 - 🗺 Triplet-based **knowledge graph** built on Neo4j AuraDB
@@ -99,7 +99,7 @@ Infosys · via ICT Academy
 
 ---
 
-### 🤖 [AI Chatbot Development](https://github.com/jaydurga1290-dot/chatbot-development-)
+### 🤖 [AI Chatbot Development](https://github.com/JAY-glit/chatbot-development-)
 > NLP-powered conversational AI with intent recognition and LLM integration
 
 - 🗣 Intent recognition and structured dialogue design
@@ -120,12 +120,12 @@ Infosys · via ICT Academy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydurga1290-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydurga1290-dot&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JAY-glit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-glit&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydurga1290-dot&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAY-glit&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
