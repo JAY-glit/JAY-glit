@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/banner.svg" width="100%" alt="JAY Durga — animated banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=E8440A&center=true&vCenter=true&width=700&lines=SYSTEMS+THAT+DETECT%2C+ADAPT%2C+DEPLOY;FINAL-YEAR+AI+ENGINEER;LLM+PIPELINES+%C2%B7+THREAT+DETECTION+%C2%B7+AZURE+AI;BUILDING+VALE+%E2%80%94+A+CINEMATIC+UNIVERSE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=E8440A&center=true&vCenter=true&width=700&lines=SYSTEMS+THAT+DETECT%2C+ADAPT%2C+DEPLOY;FINAL-YEAR+AI+ENGINEER;LLM+PIPELINES+%C2%B7+THREAT+DETECTION+%C2%B7+AZURE+AI;SHIPPING+PRODUCTION-READY+ML" alt="Typing SVG" />
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/divider1.svg" width="100%" height="24" alt="" />
 
 <br>
 
@@ -39,7 +39,7 @@ open_to:   Full-time roles
 
 <br clear="right"/>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/divider2.svg" width="100%" height="24" alt="" />
 
 ## `02 /` SYSTEMS SHIPPED
 
@@ -95,7 +95,7 @@ discovery across document sets.
 </tr>
 </table>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/divider3.svg" width="100%" height="24" alt="" />
 
 ## `03 /` STACK
 
@@ -105,7 +105,7 @@ discovery across document sets.
 
 </div>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/divider4.svg" width="100%" height="24" alt="" />
 
 ## `04 /` LIVE METRICS
 
@@ -125,7 +125,7 @@ discovery across document sets.
 
 </div>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/divider5.svg" width="100%" height="24" alt="" />
 
 ## `05 /` CONTRIBUTION GRID
 
@@ -135,7 +135,7 @@ discovery across document sets.
 
 </div>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/divider6.svg" width="100%" height="24" alt="" />
 
 <div align="center">
 
