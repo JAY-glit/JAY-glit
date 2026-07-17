@@ -1,139 +1,154 @@
-<h1 align="center">Hey, I'm JAY 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI / ML · Generative AI · Cloud (Azure) · Final Year CSE (AI) Student</b><br>
-  <i>Building systems that think, learn, and scale 🚀</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8440A&center=true&vCenter=true&width=640&lines=CASE+FILE+%23JAY-2026+%E2%80%94+ACCESS+GRANTED;SUBJECT%3A+ALLADI+JAYDURGA;STATUS%3A+ACTIVELY+BUILDING;CLEARANCE%3A+RECRUITER-LEVEL" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaydurga">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaydurga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jaydurga1290@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jaydurga1290-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=JAY-glit&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS"/>
-</p>
+<br>
 
----
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:E8440A&height=180&section=header&text=CASE%20FILE%20%23JAY&fontSize=42&fontColor=F5F1E8&fontAlignY=40&desc=Applied%20AI%20%2F%20ML%20Engineer%20%E2%80%94%20Final-Year%20Investigator&descSize=16&descAlignY=62&animation=fadeIn)
 
-## 🧠 About Me
+</div>
 
-🎓 Final-year **B.Tech CSE (Artificial Intelligence)** · Om Sterling Global University, Hisar (CGPA: 7.27)  
-🏢 **AI Trainee @ Infosys** — Azure AI Foundry, LLM deployment, cloud-based AI workflows  
-🛡 Built **Shadow Agent Pro** — browser malware detector with ~90% ML accuracy  
-🧩 Built a **RAG pipeline** using Ollama Mistral + Neo4j AuraDB knowledge graphs  
-🌱 Currently exploring: **AI Agents, LLM fine-tuning, and multi-modal systems**  
-📍 Tadipatri · 📬 jaydurga1290@gmail.com
+<br>
 
----
+## 📁 SUBJECT PROFILE
 
-## ⚡ Experience
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Trainee — Cloud & AI (Microsoft Azure)**  
-Infosys · via ICT Academy
+```yaml
+designation:    Alladi Jaydurga
+alias:          JAY
+role:           B.Tech CS (AI), Final Year
+institution:    Om Sterling Global University, Hisar
+origin:         Tadipatri, Andhra Pradesh, IN
+field_ops:      AI Trainee — Infosys x ICT Academy
+specialty:      Azure AI Foundry, LLM deployment pipelines
+status:         ACTIVELY SEEKING PLACEMENT
+```
 
-- Hands-on training on Azure AI Foundry, model deployment, and inference workflows
-- Designed and integrated REST APIs for scalable cloud-based AI applications
-- Built ML workflows: data preprocessing → model training → deployment pipelines
-- Applied Azure AI services for intelligent applications and responsible AI practices
+</td>
+<td width="50%" valign="top">
 
----
+**〔 REDACTED PSYCH EVALUATION 〕**
 
-## 🛠 Tech Stack
+> Subject exhibits above-average pattern recognition.
+> Demonstrated capacity for building autonomous
+> detection systems (see: EVIDENCE 001). Currently
+> constructing a fictional media universe as a side
+> operation — codename **VALE**. Motive: unclear.
+> Aesthetic standards: uncompromising.
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+</td>
+</tr>
+</table>
 
-**AI / ML**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<br>
 
-**Generative AI & NLP**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7F77DD?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-5DCAA5?style=flat-square)
+## 🗂️ EVIDENCE LOG — SELECTED CASES
 
-**Cloud & Deployment**  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<details open>
+<summary><b>EVIDENCE 001 — "SHADOW AGENT PRO"</b> · Threat Detection System</summary>
+<br>
 
-**Web & Backend**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Chrome Extension](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+A three-part surveillance apparatus built to intercept malicious URLs in real time.
 
----
+- **Extension layer** — Chrome MV3, persistent service worker, live URL interception
+- **Intelligence layer** — Flask REST API + Random Forest classifier, 27 URL features, ~90% detection accuracy
+- **Visualization layer** — React/Vite dashboard for threat monitoring
+- Co-investigated with **Ranjith Kumar**
 
-## 🚀 Featured Projects
+`Stack:` Python · Scikit-learn · Flask · React · Chrome MV3 · Docker
 
-### 🛡 [Shadow Agent Pro](https://github.com/JAY-glit/shadow-agent-pro)
-> Real-time browser malware detection · Chrome MV3 + Flask + ML + React dashboard
+</details>
 
-- 🤖 Random Forest classifier with ~**90% accuracy** on phishing datasets
-- 🔌 REST API backend for fast inference and threat logging (SQLite)
-- 📊 React + Vite dashboard for live threat visualization
-- 🧩 Full pipeline: data preprocessing → model training → API → Extension
+<details>
+<summary><b>EVIDENCE 002 — "AI CAREER GPS"</b> · Skill-Gap Intelligence Platform</summary>
+<br>
 
-**Stack:** Python · Scikit-learn · Flask · JavaScript · React · Vite · Chrome MV3
+MVP built to profile skill gaps for Tier-2/3 Indian engineering students and auto-generate portfolios.
 
----
+`Stack:` Next.js 14 · Supabase · Gemini API
 
-### 🧠 [RAG System — Ollama Mistral + AuraDB](https://github.com/JAY-glit/rag-ollama-mistral)
-> Context-aware AI responses using Knowledge Graphs + Vector Search
+</details>
 
-- 🗺 Triplet-based **knowledge graph** built on Neo4j AuraDB
-- 🔍 Document ingestion, embedding generation, and semantic retrieval pipelines
-- 🤝 Combined **vector search + graph traversal** for richer, more accurate answers
-- 🦙 Powered by Ollama Mistral for local LLM inference
+<details>
+<summary><b>EVIDENCE 003 — "VALE"</b> · Cinematic Universe, Classified Side Operation</summary>
+<br>
 
-**Stack:** Python · LangChain · Ollama · Mistral · Neo4j · AuraDB
+A psychological thriller universe set in the fictional island metropolis of **New Havermort**.
+Full screenplay drafted, production pipeline mapped across AI generation tools.
 
----
+`Stack:` ElevenLabs · Suno AI · Kling AI · Leonardo.ai · CapCut
 
-### 🤖 [AI Chatbot Development](https://github.com/JAY-glit/chatbot-development-)
-> NLP-powered conversational AI with intent recognition and LLM integration
+</details>
 
-- 🗣 Intent recognition and structured dialogue design
-- 🔌 API integration for real-time interaction
-- 🧠 LLM-based response generation with improved conversational flow
+<br>
 
-**Stack:** Python · NLP · LLMs · APIs · Jupyter
+## 📡 SURVEILLANCE FEED — LIVE ACTIVITY
 
----
+<div align="center">
 
-## 🏅 Certifications
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAY-glit&theme=react-dark&bg_color=0D0D0D&color=E8440A&line=E8440A&point=F5F1E8&area=true&hide_border=true" width="100%" />
 
-- 🎓 **ICT Academy AI Training Program** — Infosys  
-  Azure AI Foundry · LLM-based apps · Responsible AI · Agent-based systems
+<br><br>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=JAY-glit&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=E8440A&icon_color=E8440A&text_color=F5F1E8&hide_border=true&border_radius=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-glit&layout=compact&theme=dark&bg_color=0D0D0D&title_color=E8440A&text_color=F5F1E8&hide_border=true&border_radius=8" width="42%" />
 
-## 📊 GitHub Stats
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAY-glit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-glit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" height="160"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="1">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JAY-glit&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAY-glit&theme=tokyonight"/>
-</p>
+<br>
 
----
+## 🧬 FIELD EQUIPMENT
 
-<p align="center">
-  <i>"The best AI systems don't just compute — they understand." 🧠✨</i>
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-0D0D0D?style=for-the-badge&logo=python&logoColor=E8440A)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0D0D0D?style=for-the-badge&logo=pytorch&logoColor=E8440A)
+![Scikit](https://img.shields.io/badge/-Scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=E8440A)
+![Flask](https://img.shields.io/badge/-Flask-0D0D0D?style=for-the-badge&logo=flask&logoColor=E8440A)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=E8440A)
+![React](https://img.shields.io/badge/-React-0D0D0D?style=for-the-badge&logo=react&logoColor=E8440A)
+![LangChain](https://img.shields.io/badge/-LangChain-0D0D0D?style=for-the-badge&logo=langchain&logoColor=E8440A)
+![Docker](https://img.shields.io/badge/-Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=E8440A)
+![Azure](https://img.shields.io/badge/-Azure_AI-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=E8440A)
+![Neo4j](https://img.shields.io/badge/-Neo4j-0D0D0D?style=for-the-badge&logo=neo4j&logoColor=E8440A)
+
+</div>
+
+<br>
+
+## 🐍 CONTRIBUTION SURVEILLANCE
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+<!--END_SECTION:waka-->
+
+</div>
+
+<br>
+
+## 📞 LAST KNOWN TRANSMISSION
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E8440A)](https://linkedin.com/in/jaydurga)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E8440A)](mailto:jaydurga1290@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Repositories-0D0D0D?style=for-the-badge&logo=github&logoColor=E8440A)](https://github.com/JAY-glit)
+
+<br>
+
+> *"Every system leaves a trace. Every trace tells a story."*
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E8440A,100:0D0D0D&height=100&section=footer)
+
+</div>
