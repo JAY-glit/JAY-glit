@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:E8440A,100:0D0D0D&height=220&section=header&text=JAY%20DURGA&fontSize=60&fontColor=F5F1E8&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=20" />
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/banner.svg" width="100%" alt="JAY Durga — New Havermort skyline banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=E8440A&center=true&vCenter=true&width=700&lines=SYSTEMS+THAT+DETECT%2C+ADAPT%2C+DEPLOY;FINAL-YEAR+AI+ENGINEER;LLM+PIPELINES+%C2%B7+THREAT+DETECTION+%C2%B7+AZURE+AI;BUILDING+VALE+%E2%80%94+A+CINEMATIC+UNIVERSE" alt="Typing SVG" />
 
