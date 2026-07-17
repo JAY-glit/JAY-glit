@@ -3,11 +3,12 @@
 <br>
 
 # ⌁ JAY&nbsp;&nbsp;DURGA
-### `AI / ML ENGINEER — SYSTEMS THAT DETECT, ADAPT, DEPLOY`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=1000&color=E8440A&center=true&vCenter=true&width=680&lines=AI+%2F+ML+ENGINEER;SYSTEMS+THAT+DETECT%2C+ADAPT%2C+DEPLOY;BUILDING+VALE+ON+THE+SIDE" alt="Typing SVG" />
 
 <br>
 
-![Header](https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,100:E8440A&height=4&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:E8440A&height=90&section=header)
 
 </div>
 
@@ -136,7 +137,21 @@ island metropolis of New Havermort.
 
 <div align="center">
 
-### `06 /` CONNECT
+### `06 /` LIVE CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+<br>
+
+![Divider](https://capsule-render.vercel.app/api?type=blur&color=0:0D0D0D,100:E8440A&height=2&section=header)
+
+<br>
+
+### `07 /` CONNECT
 
 **[LinkedIn](https://www.linkedin.com/in/jaydurga/)** &nbsp;·&nbsp; **[Email](mailto:jaydurga1290@gmail.com)** &nbsp;·&nbsp; **[GitHub](https://github.com/JAY-glit)**
 
@@ -146,6 +161,6 @@ island metropolis of New Havermort.
 
 <br><br>
 
-![Footer](https://capsule-render.vercel.app/api?type=blur&color=0:E8440A,100:0D0D0D&height=4&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E8440A,100:0D0D0D&height=90&section=footer)
 
 </div>
