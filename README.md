@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/banner.svg" width="100%" alt="JAY Durga — New Havermort skyline banner" />
+<img src="https://raw.githubusercontent.com/JAY-glit/JAY-glit/main/banner.svg" width="100%" alt="JAY Durga — animated banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=900&color=E8440A&center=true&vCenter=true&width=700&lines=SYSTEMS+THAT+DETECT%2C+ADAPT%2C+DEPLOY;FINAL-YEAR+AI+ENGINEER;LLM+PIPELINES+%C2%B7+THREAT+DETECTION+%C2%B7+AZURE+AI;BUILDING+VALE+%E2%80%94+A+CINEMATIC+UNIVERSE" alt="Typing SVG" />
 
@@ -29,14 +29,12 @@ Trained inside **Infosys** on **Microsoft Azure AI Foundry**, shipping
 LLM pipelines end-to-end. Closing out a B.Tech in Computer Science
 (AI) at Om Sterling Global University.
 
-Off the clock: building **VALE**, a full cinematic universe — same
-instinct that debugs a classifier at 2am also wants to worldbuild.
+Focused on building systems that hold up in production — not demos.
 
 ```yaml
 location:  Andhra Pradesh, IN
 focus:     AI/ML Engineering
 open_to:   Full-time roles
-building:  VALE Universe
 ```
 
 <br clear="right"/>
@@ -80,17 +78,18 @@ auto-generated portfolios.
 </td>
 <td width="33%" valign="top">
 
-### 🎬 VALE
-Original cinematic universe,
-built solo with AI production tools
+### 🧬 DOCUMENT CLUSTERING
+NLP pipeline for HTML document
+clustering & similarity mapping
 
-`ElevenLabs · Suno · Kling AI`
+`Sentence Transformers · DBSCAN`
 
-Full screenplay, mapped pipeline,
-island metropolis of New Havermort.
+Embedding-based clustering with
+t-SNE visualization for structure
+discovery across document sets.
 
-![](https://img.shields.io/badge/ElevenLabs-0D0D0D?style=flat-square&logo=elevenlabs&logoColor=E8440A)
-![](https://img.shields.io/badge/Suno_AI-0D0D0D?style=flat-square&logoColor=E8440A)
+![](https://img.shields.io/badge/PyTorch-0D0D0D?style=flat-square&logo=pytorch&logoColor=E8440A)
+![](https://img.shields.io/badge/Scikit--learn-0D0D0D?style=flat-square&logo=scikitlearn&logoColor=E8440A)
 
 </td>
 </tr>
